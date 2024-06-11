@@ -9,7 +9,7 @@ namespace leetcode2133
     internal class false_ex
 {
         //失敗 使用sum不行
-        public static bool CheckValid(int[][] matrix)
+        public static bool CheckValidsum(int[][] matrix)
         {
             //固定列，取得個別列的sum
             int[] sum_fixed_i = new int[matrix.Length];
@@ -50,12 +50,7 @@ namespace leetcode2133
                 Array.Sort(matrixtest);
                 if (matrixtest[i] == i + 1)
                 {
-                    if (i == matrixtest.Length - 1 & matrixtest[i] == i + 1)
-                    {
-                        Console.WriteLine(i);
-                    }
                     continue;
-
                 }
                 Console.WriteLine($"fales1_{i}");
 
