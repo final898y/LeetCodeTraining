@@ -1,4 +1,3 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
@@ -8,6 +7,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leetcode_test", "leetcode_test\leetcode_test.csproj", "{E0749F75-0446-45E3-AAC8-3E2E41C3ECEF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2037_Accepted", "2037\2037_Accepted.csproj", "{AB3D0C99-C013-415E-8249-11E6C8D5B547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3110_2769_1929_1920_1646_1_Accepted", "3110_2769_1929_1920_1646_1\3110_2769_1929_1920_1646_1_Accepted.csproj", "{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +28,10 @@ Global
 		{AB3D0C99-C013-415E-8249-11E6C8D5B547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3D0C99-C013-415E-8249-11E6C8D5B547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3D0C99-C013-415E-8249-11E6C8D5B547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
