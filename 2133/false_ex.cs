@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace leetcode2133
 {
     internal class false_ex
-{
+    {
         //失敗 使用sum不行
         public static bool CheckValidsum(int[][] matrix)
         {

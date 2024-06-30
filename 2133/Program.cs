@@ -2,9 +2,6 @@
 //2133. Check if Every Row and Column Contains All Numbers
 //https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/
 
-
-using leetcode2133;
-
 int[] test = { 1, 2, 3, 4,5, 6 };
 //Console.WriteLine(false_ex.CheckValidtest(test));
 int[][] matrix =
