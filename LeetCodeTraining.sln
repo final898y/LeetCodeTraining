@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2037_Accepted", "2037\2037_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3110_2769_1929_1920_1646_1_Accepted", "3110_2769_1929_1920_1646_1\3110_2769_1929_1920_1646_1_Accepted.csproj", "{2F45345B-82C6-40ED-A63F-0282C7B1F4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_Climbing Stairs", "70_Climbing Stairs\70_Climbing Stairs.csproj", "{F66C31A8-72D3-4AAF-85F9-5FBB85363FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70_Climbing Stairs_Accepted", "70_Climbing Stairs\70_Climbing Stairs_Accepted.csproj", "{F66C31A8-72D3-4AAF-85F9-5FBB85363FC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

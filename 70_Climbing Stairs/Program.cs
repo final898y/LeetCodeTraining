@@ -22,4 +22,3 @@ int ClimbStairs(int n)
     }
     return thirdNum;
 }
-}
