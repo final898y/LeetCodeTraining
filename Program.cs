@@ -14,4 +14,4 @@ int[][] matrix2133 =
             [3, 3, 1],
         ];
 Console.WriteLine(AcceptedBefore202410.CheckValid(matrix2133));
-
+Console.WriteLine(Accepted202411.FizzBuzz(3));

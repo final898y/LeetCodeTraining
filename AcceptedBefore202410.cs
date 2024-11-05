@@ -14,7 +14,8 @@ namespace LeetcodeTraining
         //@areetrahalder
         //70.Climbing Stairs
         //https://leetcode.com/problems/climbing-stairs/description/
-        int ClimbStairs(int n)
+
+        static public int ClimbStairs(int n)
         {
             if (n <= 1) return 1;
             int firstNum = 1, secondNum = 1, thirdNum = 0;
